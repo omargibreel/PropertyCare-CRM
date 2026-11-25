@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Plugins/Plugins.csproj" Id="522e789c-1ea1-4a92-b6eb-9a241ad58b5a" />
+  <Project Path="PropertyCare.Entities/PropertyCare.Entities.csproj" Id="4fa7594f-6bd8-4bc9-be21-9be19f37a799" />
+  <Properties Name="CRMSolutionProperties">
+    <Property Name="SolutionIsBoundToCRM" Value="True" />
+  </Properties>
+</Solution>
